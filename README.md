@@ -2,7 +2,7 @@
 <img align="center" alt="Be The Hero"  src="frontend/src/assets/logo.svg" width="250px" />
 </p>
 
-<p align="center">Aplicação Be The Hero desenvolvida durante a Semana Omni Stack 11.0</p>
+<p align="center">Aplicação Be The Hero desenvolvida durante a Semana Omni Stack 11.0 da <a href="https://rocketseat.com.br/">Rocketseat</a></p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/amandadsc/semanaomnistack11">
@@ -24,6 +24,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
+
+<h4>Database</h4>
+
+- [SQLite](https://www.sqlite.org/index.html)
+- [Knex.js](http://knexjs.org/)
 
 <h4>Front-end</h4>
 
